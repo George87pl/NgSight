@@ -3,11 +3,10 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\charts",
-    "\\src\\app\\charts\\bar-chart",
-    "\\src\\app\\sections",
-    "\\src\\app\\sections\\section-sales"
+    "\\src\\app\\charts\\line-chart",
+    "\\src\\app\\server",
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\charts\\bar-chart\\bar-chart.component.ts",
+  "SelectedNode": "\\src\\app\\server\\server.component.ts",
   "PreviewInSolutionExplorer": false
 }
